@@ -34,19 +34,19 @@
         },
         {
             "id": 5,
-            "title": "Spring Framework. ¿Qué es ?",
+            "title": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
             "category": "BACK-END",
             "photo": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
             "link": "https://www.youtube.com/embed/t-iqt1b2qqk?si=HaMciLKuslok023B",
-            "description": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda."
+            "description": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? 🤔A Juliana Amoasei responde tudo isso pra você no vídeo! Confere aí! "
         },
         {
             "id": 6,
-            "title": "¿Qué es SQL y NoSQL?",
+            "title": "Kotlin, Micronaut e Back-end com Alberto Sousa | #HipstersPontoTube",
             "category": "BACK-END",
-            "photo": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
-            "link": "https://www.youtube.com/embed/cLLKVd5CNLc?si=MYp6WnXXQvqGSPYi",
-            "description": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+            "photo": "https://img.youtube.com/vi/PV9FoHvVE8k/sddefault.jpg",
+            "link": "https://www.youtube.com/watch?v=PV9FoHvVE8k",
+            "description": "Vamos falar sobre Kotlin, a linguagem da programação que é amplamente usada por desenvolvedores Android. Dessa vez o @DevEficiente nos ajudou a entender quais as vantagens de usar Kotlin e as semelhanças que tem com Java. Vem conferir mais da capacidade dessa linguagem e como usá-la no universo da programação."
         },
         {
             "id": 7,
@@ -58,27 +58,27 @@
         },
         {
             "id": 8,
-            "title": "¿Qué son las Soft Skills?",
-            "category": "INOVAÇÃO E GESTÃO",
-            "photo": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
-            "link": "https://www.youtube.com/embed/vhwspfvI52k?si=jWQPbz3Ph7gX03Zb",
-            "description": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+            "title": "Guia de Carreira NODE.JS | #HipstersPontoTube",
+            "category": "BACK-END",
+            "photo": "https://img.youtube.com/vi/aKtpRRe-AEU/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=aKtpRRe-AEU",
+            "description": ""
         },
         {
             "id": 9,
-            "title": "7 Soft Skills más deseadas por las empresas",
-            "category": "INOVAÇÃO E GESTÃO",
-            "photo": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
-            "link": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=ky6cHgq598bnyowv",
-            "description": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral."
+            "title": "Desenvolvimento iOS pra iniciantes com Giovanna Moeller | #HipstersPontoTube",
+            "category": "MOBILE",
+            "photo": "https://img.youtube.com/vi/MGIs7DSQ-0A/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=MGIs7DSQ-0A",
+            "description": "Por onde começar em iOS? Qual linguagem é importante dominar? Quais ferramentas necessárias para mergulhar no desenvolvimento iOS? 🤔 @DevSoutinho é o host desse episódio e ele recebeu a Giovanna Moeller para compartilhar dicas incríveis sobre desenvolvimento iOS para quem está começando nessa área. Se você quer dar start no mercado mobile e têm dúvidas, vem conferir o conteúdo. "
         },
         {
             "id": 10,
-            "title": "Ventajas de las metodologías Ágiles",
+            "title": "Como desenvolver boas práticas de programação? com Fabio Akita | #HipstersPontoTube",
             "category": "INOVAÇÃO E GESTÃO",
-            "photo": "https://i.ytimg.com/vi/p4kpHAvQH9w/mqdefault.jpg",
-            "link": "https://www.youtube.com/embed/p4kpHAvQH9w?si=fqmLwmIBBSzg93o5",
-            "description": "En nuestra 6a edición del Café Punto Tech, hablaremos con Elizabeth León y Andyara Pedrosa dos expertas en area de la metodología Agile, la cual permite adaptar la forma en que un equipo trabaja a los requerimientos del proyecto. Agile es una nueva forma de trabajar, para cumplir con el desarrollo del proyecto de una manera rápida, flexible y adaptada a las circunstancias. Nuestras invitadas van a contarnos las principales ventajas de las metodologías Ágiles."
+            "photo": "https://img.youtube.com/vi/GUanHEGlje4/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=GUanHEGlje4",
+            "description": "A tecnologia não para de evoluir e sempre surgem novas formas de escrever um código. Por isso, aplicar boas práticas de programação é fundamental para aprimorar o ambiente de trabalho, ter qualidade no momento de programar e manter o código legível, organizado e funcional. Convidamos o @Akitando para saber quais são as principais boas práticas de programação, como elas mudaram ao longo tempo e como podem potencializar a rotina de trabalho de devs e equipes. Confere aí e conta pra gente qual boa prática de programação você gosta e costuma usar 😉✌"
         },
         {
             "id": 11,
@@ -87,6 +87,22 @@
             "photo": "https://img.youtube.com/vi/6IuQUgeDPg0/maxresdefault.jpg",
             "link": "https://www.youtube.com/watch?v=6IuQUgeDPg0",
             "description": "Afinal, o que é React JS? Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ele. "
+        },
+        {
+            "id": 12,
+            "title": "Guia de Carreira: Android | #HipstersPontoTube",
+            "category": "MOBILE",
+            "photo": "https://img.youtube.com/vi/Jt6cRnki-IE/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=Jt6cRnki-IE",
+            "description": "Neste episódio do Hipsters.Tube sobre o Tech Guide de Mobile, criado pela Alura, você encontrará uma série de dicas e orientações abrangentes sobre o desenvolvimento mobile no Android, com um foco especial na linguagem Kotlin, que se tornou a preferida da comunidade dev. Abordaremos tópicos essenciais, desde a transição do Java para Kotlin até a criação de aplicativos inovadores para a Play Store. Além disso, exploraremos práticas de teste para garantir a qualidade do seu APP. Prepare-se para aprimorar suas habilidades no desenvolvimento mobile e construir aplicativos incríveis. "
+        },
+        {
+            "id": 13,
+            "title": "Da comunicação social até dev no Nubank: Maria Eduarda Duarte",
+            "category": "MOBILE",
+            "photo": "https://img.youtube.com/vi/wwEr5H-hLAA/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=wwEr5H-hLAA",
+            "description": "Conheça Maria, que veio de uma família de pessoas de humanas e sempre gostou de trabalhos manuais e artísticos. Se formou em comunicação social, não conseguiu se encaixar no mercado e no final acabou indo estudar tecnologia. Conseguiu seu primeiro emprego na Pagar.me, depois passou pelo LuizaLabs, chegou a trabalhar com criptomoedas e hoje é engenheira de software no Nubank."
         }
     ]
 }
